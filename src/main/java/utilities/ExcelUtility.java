@@ -3,7 +3,6 @@ package utilities;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Sheet;
@@ -26,7 +25,7 @@ public class ExcelUtility {
 			DataFormatter formatter = new DataFormatter(); // this line of code will format data type 
 
 			// This line of code will read all values in excel till last row and last column
-			int rowSize = sheet.getLastRowNum(), colSize=sheet.getRow(0).getLastCellNum();
+			int rowSize = sheet.getPhysicalNumberOfRows(), colSize=sheet.getRow(0).getLastCellNum();
 			
 			Object data[][] = new Object[rowSize][colSize];
 			System.out.println(data.length +"      "+ data[0].length);

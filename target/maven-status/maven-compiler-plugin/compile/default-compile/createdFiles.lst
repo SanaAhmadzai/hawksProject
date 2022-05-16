@@ -1,5 +1,5 @@
-utilities\TestNGListeners.class
-core\Base.class
-pageObj\HotelPageObject.class
-utilities\ExcelUtility.class
-utilities\DriverUtility.class
+utilities/DataGenerator.class
+utilities/TestNGListeners.class
+utilities/ExcelUtility.class
+core/Base.class
+utilities/DriverUtility.class

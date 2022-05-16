@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Lab Session Practice" verbose="1">
+	<parameter name="userName" value="student@tekschool.us" />
+	<parameter name="password" value="Tek@123" />
+	<test name="Practice Session" parallel = "methods" thread-count ="4">
+		<classes>
+			<class name="exercise.testNG.ParallelExecutionPractice" />
+		</classes>
+	</test>
+</suite>

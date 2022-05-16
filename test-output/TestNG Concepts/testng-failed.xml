@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG Concepts]">
+  <parameter name="lName" value="Bond"/>
+  <parameter name="fName" value="James"/>
+  <parameter name="cityName" value="New York"/>
+  <listeners>
+    <listener class-name="utilities.TestNGListeners"/>
+  </listeners>
+  <test thread-count="5" name="TestNG Concepts(failed)" parallel="methods">
+    <classes>
+      <class name="testNG.concepts.ParallelExecution">
+        <methods>
+          <include name="testOne"/>
+        </methods>
+      </class> <!-- testNG.concepts.ParallelExecution -->
+    </classes>
+  </test> <!-- TestNG Concepts(failed) -->
+</suite> <!-- Failed suite [TestNG Concepts] -->

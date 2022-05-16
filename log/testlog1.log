@@ -1,203 +1,234 @@
-2021-10-25 19:39:19,507 [main] INFO logger_File - Start of Execution
-2021-10-25 19:39:26,553 [main] INFO logger_File - User lunched Hotel website
-2021-10-25 19:39:26,554 [main] INFO logger_File - Test Execution Started
-2021-10-25 19:39:37,227 [main] INFO logger_File - Test was passed successfully
-2021-10-25 19:39:37,228 [main] INFO logger_File - method name: loginTest
-2021-10-25 19:39:37,874 [main] INFO logger_File - End of Execution
-2021-10-25 19:41:47,758 [main] INFO logger_File - Start of Execution
-2021-10-25 19:41:53,287 [main] INFO logger_File - User lunched Hotel website
-2021-10-25 19:41:53,288 [main] INFO logger_File - Test Execution Started
-2021-10-25 19:42:03,603 [main] INFO logger_File - Test was passed successfully
-2021-10-25 19:42:03,609 [main] INFO logger_File - method name: loginTest
-2021-10-25 19:42:04,238 [main] INFO logger_File - End of Execution
-2021-10-25 20:35:26,980 [main] INFO logger_File - Start of Execution
-2021-10-25 20:35:27,000 [main] INFO logger_File - Test Execution Started
-2021-10-25 20:35:27,011 [main] INFO logger_File - Test was passed successfully
-2021-10-25 20:35:27,011 [main] INFO logger_File - method name: testOne
-2021-10-25 20:35:27,020 [main] INFO logger_File - Test Execution Started
-2021-10-25 20:35:27,022 [main] INFO logger_File - Test was passed successfully
-2021-10-25 20:35:27,022 [main] INFO logger_File - method name: testTwo
-2021-10-25 20:35:27,037 [main] INFO logger_File - End of Execution
-2021-10-25 21:12:31,152 [main] INFO logger_File - Start of Execution
-2021-10-25 21:12:31,174 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:12:31,185 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:12:31,186 [main] INFO logger_File - method name: testFive
-2021-10-25 21:12:31,194 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:12:31,195 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:12:31,195 [main] INFO logger_File - method name: testFour
-2021-10-25 21:12:31,197 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:12:31,199 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:12:31,199 [main] INFO logger_File - method name: testSix
-2021-10-25 21:12:31,203 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:12:31,204 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:12:31,205 [main] INFO logger_File - method name: testThree
-2021-10-25 21:12:31,221 [main] INFO logger_File - End of Execution
-2021-10-25 21:21:05,351 [main] INFO logger_File - Start of Execution
-2021-10-25 21:21:05,373 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:21:05,386 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:21:05,386 [main] INFO logger_File - method name: test
-2021-10-25 21:21:05,404 [main] INFO logger_File - End of Execution
-2021-10-25 21:58:23,756 [main] INFO logger_File - Start of Execution
-2021-10-25 21:58:23,782 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:58:23,790 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:58:23,790 [main] INFO logger_File - method name: testFive
-2021-10-25 21:58:23,799 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:58:23,800 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:58:23,800 [main] INFO logger_File - method name: testFour
-2021-10-25 21:58:23,803 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:58:23,805 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:58:23,805 [main] INFO logger_File - method name: testOne
-2021-10-25 21:58:23,807 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:58:23,808 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:58:23,808 [main] INFO logger_File - method name: testThree
-2021-10-25 21:58:23,810 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:58:23,811 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:58:23,812 [main] INFO logger_File - method name: testTwo
-2021-10-25 21:58:23,814 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:58:23,815 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:58:23,816 [main] INFO logger_File - method name: values
-2021-10-25 21:58:23,827 [main] INFO logger_File - End of Execution
-2021-10-25 21:59:22,237 [main] INFO logger_File - Start of Execution
-2021-10-25 21:59:22,270 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,279 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,280 [main] INFO logger_File - method name: testFive
-2021-10-25 21:59:22,290 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,292 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,292 [main] INFO logger_File - method name: testFour
-2021-10-25 21:59:22,296 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,297 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,298 [main] INFO logger_File - method name: testOne
-2021-10-25 21:59:22,300 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,301 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,302 [main] INFO logger_File - method name: testThree
-2021-10-25 21:59:22,304 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,306 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,306 [main] INFO logger_File - method name: testTwo
-2021-10-25 21:59:22,310 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,312 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,312 [main] INFO logger_File - method name: values
-2021-10-25 21:59:22,314 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,315 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,316 [main] INFO logger_File - method name: troy
-2021-10-25 21:59:22,317 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,318 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,319 [main] INFO logger_File - method name: titanic
-2021-10-25 21:59:22,320 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,322 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,322 [main] INFO logger_File - method name: Terminator
-2021-10-25 21:59:22,323 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,324 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,325 [main] INFO logger_File - method name: starsWar
-2021-10-25 21:59:22,326 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,327 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,327 [main] INFO logger_File - method name: harryPotter
-2021-10-25 21:59:22,328 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,329 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,329 [main] INFO logger_File - method name: forrestGump
-2021-10-25 21:59:22,330 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,331 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,331 [main] INFO logger_File - method name: narnia
-2021-10-25 21:59:22,332 [main] INFO logger_File - Test Execution Started
-2021-10-25 21:59:22,333 [main] INFO logger_File - Test was passed successfully
-2021-10-25 21:59:22,333 [main] INFO logger_File - method name: avengers
-2021-10-25 21:59:22,348 [main] INFO logger_File - End of Execution
-2021-10-26 20:09:18,104 [main] INFO logger_File - Start of Execution
-2021-10-26 20:09:26,207 [main] INFO logger_File - browser opened
-2021-10-26 20:09:26,212 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:09:27,372 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:09:28,115 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:09:28,116 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:09:28,755 [main] INFO logger_File - browser closed
-2021-10-26 20:09:34,486 [main] INFO logger_File - browser opened
-2021-10-26 20:09:34,487 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:09:35,090 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:09:36,083 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:09:36,083 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:09:36,708 [main] INFO logger_File - browser closed
-2021-10-26 20:09:41,979 [main] INFO logger_File - browser opened
-2021-10-26 20:09:41,980 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:09:42,509 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:09:43,093 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:09:43,093 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:09:43,715 [main] INFO logger_File - browser closed
-2021-10-26 20:09:49,391 [main] INFO logger_File - browser opened
-2021-10-26 20:09:49,392 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:09:50,081 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:09:50,871 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:09:50,871 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:09:51,619 [main] INFO logger_File - browser closed
-2021-10-26 20:09:58,249 [main] INFO logger_File - browser opened
-2021-10-26 20:09:58,250 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:09:58,955 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:09:59,788 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:09:59,789 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:10:00,418 [main] INFO logger_File - browser closed
-2021-10-26 20:10:07,648 [main] INFO logger_File - browser opened
-2021-10-26 20:10:07,649 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:10:08,424 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:10:09,239 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:10:09,239 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:10:09,866 [main] INFO logger_File - browser closed
-2021-10-26 20:10:17,341 [main] INFO logger_File - browser opened
-2021-10-26 20:10:17,342 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:10:18,015 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:10:18,769 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:10:18,770 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:10:19,506 [main] INFO logger_File - browser closed
-2021-10-26 20:10:24,199 [main] INFO logger_File - browser opened
-2021-10-26 20:10:24,200 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:10:24,716 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:10:25,362 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:10:25,362 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:10:25,986 [main] INFO logger_File - browser closed
-2021-10-26 20:10:32,968 [main] INFO logger_File - browser opened
-2021-10-26 20:10:32,968 [main] INFO logger_File - Test Execution Started
-2021-10-26 20:10:33,657 [main] INFO logger_File - user clicked on signIn
-2021-10-26 20:10:34,317 [main] INFO logger_File - Test was passed successfully
-2021-10-26 20:10:34,317 [main] INFO logger_File - method name: testLogin
-2021-10-26 20:10:34,938 [main] INFO logger_File - browser closed
-2021-10-26 20:10:34,953 [main] INFO logger_File - End of Execution
-2021-10-26 21:37:39,157 [main] INFO logger_File - Start of Execution
-2021-10-26 21:37:39,183 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
-2021-10-26 21:37:39,183 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
-2021-10-26 21:37:44,831 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
-2021-10-26 21:37:44,831 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
-2021-10-26 21:37:46,389 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
-2021-10-26 21:37:46,390 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
-2021-10-26 21:37:46,401 [main] INFO logger_File - End of Execution
-2021-10-26 21:39:46,845 [main] INFO logger_File - Start of Execution
-2021-10-26 21:39:46,868 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
-2021-10-26 21:39:46,869 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
-2021-10-26 21:39:52,018 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
-2021-10-26 21:39:52,019 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
-2021-10-26 21:39:52,596 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
-2021-10-26 21:39:52,596 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
-2021-10-26 21:39:52,609 [main] INFO logger_File - End of Execution
-2021-10-26 21:41:15,857 [main] INFO logger_File - Start of Execution
-2021-10-26 21:41:15,883 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
-2021-10-26 21:41:15,884 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
-2021-10-26 21:41:15,885 [TestNG-test=ParallelExecution-3] INFO logger_File - Test Execution Started
-2021-10-26 21:41:20,262 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
-2021-10-26 21:41:20,262 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
-2021-10-26 21:41:20,286 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
-2021-10-26 21:41:20,287 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
-2021-10-26 21:41:26,304 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was passed successfully
-2021-10-26 21:41:26,305 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
-2021-10-26 21:41:26,316 [main] INFO logger_File - End of Execution
-2021-10-26 21:44:42,786 [main] INFO logger_File - Start of Execution
-2021-10-26 21:44:42,810 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
-2021-10-26 21:44:42,811 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
-2021-10-26 21:44:42,812 [TestNG-test=ParallelExecution-3] INFO logger_File - Test Execution Started
-2021-10-26 21:44:48,421 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was failed
-2021-10-26 21:44:48,422 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
-2021-10-26 21:44:48,423 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was failed
-2021-10-26 21:44:48,423 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
-2021-10-26 21:44:51,328 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was failed
-2021-10-26 21:44:51,328 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
-2021-10-26 21:44:51,329 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was failed
-2021-10-26 21:44:51,329 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
-2021-10-26 21:44:58,393 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was failed
-2021-10-26 21:44:58,393 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
-2021-10-26 21:44:58,394 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was failed
-2021-10-26 21:44:58,394 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
-2021-10-26 21:44:58,412 [main] INFO logger_File - End of Execution
+2022-05-04 19:30:28,162 [main] INFO logger_File - Start of Execution
+2022-05-04 19:30:28,188 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:30:28,198 [main] INFO logger_File - Test was failed
+2022-05-04 19:30:28,198 [main] INFO logger_File - method name: hardAssert
+2022-05-04 19:30:28,201 [main] INFO logger_File - Test was failed
+2022-05-04 19:30:28,201 [main] INFO logger_File - method name: hardAssert
+2022-05-04 19:30:28,217 [main] INFO logger_File - End of Execution
+2022-05-04 19:31:13,440 [main] INFO logger_File - Start of Execution
+2022-05-04 19:31:13,466 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:31:13,476 [main] INFO logger_File - Test was failed
+2022-05-04 19:31:13,476 [main] INFO logger_File - method name: hardAssert
+2022-05-04 19:31:13,481 [main] INFO logger_File - Test was failed
+2022-05-04 19:31:13,481 [main] INFO logger_File - method name: hardAssert
+2022-05-04 19:31:13,497 [main] INFO logger_File - End of Execution
+2022-05-04 19:32:20,960 [main] INFO logger_File - Start of Execution
+2022-05-04 19:32:20,987 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:32:20,997 [main] INFO logger_File - Test was failed
+2022-05-04 19:32:20,998 [main] INFO logger_File - method name: hardAssert
+2022-05-04 19:32:21,002 [main] INFO logger_File - Test was failed
+2022-05-04 19:32:21,002 [main] INFO logger_File - method name: hardAssert
+2022-05-04 19:32:21,019 [main] INFO logger_File - End of Execution
+2022-05-04 19:33:43,210 [main] INFO logger_File - Start of Execution
+2022-05-04 19:33:43,237 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,247 [main] INFO logger_File - Test was failed
+2022-05-04 19:33:43,247 [main] INFO logger_File - method name: hardAssert
+2022-05-04 19:33:43,249 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,253 [main] INFO logger_File - Test was failed
+2022-05-04 19:33:43,253 [main] INFO logger_File - method name: softAssert
+2022-05-04 19:33:43,255 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,257 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,257 [main] INFO logger_File - method name: TurquoiseColor
+2022-05-04 19:33:43,266 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,267 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,268 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,270 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,271 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,272 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,273 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,274 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,274 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,276 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,276 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,277 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,278 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,279 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,279 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,280 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,281 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,282 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,284 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,284 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,285 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,286 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,287 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,287 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,288 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,289 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,289 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,291 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,292 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,292 [main] INFO logger_File - method name: blackColor
+2022-05-04 19:33:43,294 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,294 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,295 [main] INFO logger_File - method name: brownColor
+2022-05-04 19:33:43,296 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,297 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,297 [main] INFO logger_File - method name: goldColor
+2022-05-04 19:33:43,298 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,299 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,299 [main] INFO logger_File - method name: redColor
+2022-05-04 19:33:43,301 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,302 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,303 [main] INFO logger_File - method name: silverColor
+2022-05-04 19:33:43,304 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,305 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,305 [main] INFO logger_File - method name: whiteColor
+2022-05-04 19:33:43,307 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,308 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,308 [main] INFO logger_File - method name: testC
+2022-05-04 19:33:43,309 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,310 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,310 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,311 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,312 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,312 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,313 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,314 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,314 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,316 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,318 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,318 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,319 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,319 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,319 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,320 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,321 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,321 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,322 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,323 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,323 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,324 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,325 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,325 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,326 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,326 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,327 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,327 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:33:43,328 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:33:43,328 [main] INFO logger_File - method name: testB
+2022-05-04 19:33:43,346 [main] INFO logger_File - End of Execution
+2022-05-04 19:48:39,690 [main] INFO logger_File - Start of Execution
+2022-05-04 19:48:44,817 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:48:49,918 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:48:49,918 [main] INFO logger_File - method name: test
+2022-05-04 19:48:54,113 [main] INFO logger_File - End of Execution
+2022-05-04 19:57:31,251 [main] INFO logger_File - Start of Execution
+2022-05-04 19:57:36,006 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:57:41,088 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:57:41,088 [main] INFO logger_File - method name: test
+2022-05-04 19:57:41,188 [main] INFO logger_File - Test Execution Started
+2022-05-04 19:57:41,189 [main] INFO logger_File - Test was passed successfully
+2022-05-04 19:57:41,190 [main] INFO logger_File - method name: test
+2022-05-04 19:57:41,201 [main] INFO logger_File - End of Execution
+2022-05-04 21:04:21,574 [main] INFO logger_File - Start of Execution
+2022-05-04 21:04:21,599 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:04:21,600 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 21:04:27,708 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:04:27,709 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 21:04:27,769 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was failed
+2022-05-04 21:04:27,769 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: testOne
+2022-05-04 21:04:27,783 [main] INFO logger_File - End of Execution
+2022-05-04 21:05:11,575 [main] INFO logger_File - Start of Execution
+2022-05-04 21:05:11,598 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:05:11,599 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 21:05:17,306 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was passed successfully
+2022-05-04 21:05:17,307 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: testOne
+2022-05-04 21:05:18,022 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:05:18,023 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 21:05:18,033 [main] INFO logger_File - End of Execution
+2022-05-04 21:09:54,815 [main] INFO logger_File - Start of Execution
+2022-05-04 21:09:54,840 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:09:54,840 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 21:10:01,452 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was failed
+2022-05-04 21:10:01,453 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: testOne
+2022-05-04 21:10:01,955 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:10:01,955 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 21:10:01,973 [main] INFO logger_File - End of Execution
+2022-05-04 21:11:03,786 [main] INFO logger_File - Start of Execution
+2022-05-04 21:11:03,811 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:11:03,812 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 21:11:04,365 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was failed
+2022-05-04 21:11:04,366 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: testOne
+2022-05-04 21:11:10,058 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:11:10,058 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 21:11:10,112 [main] INFO logger_File - End of Execution
+2022-05-04 21:11:53,401 [main] INFO logger_File - Start of Execution
+2022-05-04 21:11:53,426 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 21:11:53,426 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:12:01,295 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was failed
+2022-05-04 21:12:01,295 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: testOne
+2022-05-04 21:12:01,343 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:12:01,343 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 21:12:01,362 [main] INFO logger_File - End of Execution
+2022-05-04 21:15:41,869 [main] INFO logger_File - Start of Execution
+2022-05-04 21:15:41,893 [TestNG-test=TestNG Concepts(failed)-1] INFO logger_File - Test Execution Started
+2022-05-04 21:15:48,094 [TestNG-test=TestNG Concepts(failed)-1] INFO logger_File - Test was passed successfully
+2022-05-04 21:15:48,094 [TestNG-test=TestNG Concepts(failed)-1] INFO logger_File - method name: testOne
+2022-05-04 21:15:48,108 [main] INFO logger_File - End of Execution
+2022-05-04 21:18:01,853 [main] INFO logger_File - Start of Execution
+2022-05-04 21:18:01,877 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 21:18:01,878 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:18:08,853 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was failed
+2022-05-04 21:18:08,854 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: testOne
+2022-05-04 21:18:08,907 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:18:08,907 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 21:18:08,925 [main] INFO logger_File - End of Execution
+2022-05-04 21:19:46,379 [main] INFO logger_File - Start of Execution
+2022-05-04 21:19:46,404 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:19:46,412 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:19:46,413 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: test
+2022-05-04 21:19:46,421 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:19:52,081 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 21:19:52,786 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:19:52,787 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testOne
+2022-05-04 21:19:52,790 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 21:19:57,199 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was passed successfully
+2022-05-04 21:19:57,199 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: test
+2022-05-04 21:19:57,622 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 21:19:57,622 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 21:19:57,633 [main] INFO logger_File - End of Execution
+2022-05-04 22:09:35,346 [main] INFO logger_File - Start of Execution
+2022-05-04 22:09:35,369 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 22:09:35,377 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 22:09:35,377 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: test
+2022-05-04 22:09:35,384 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 22:09:41,174 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test Execution Started
+2022-05-04 22:09:42,156 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 22:09:42,157 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testOne
+2022-05-04 22:09:42,159 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test Execution Started
+2022-05-04 22:09:46,254 [TestNG-test=TestNG Concepts-1] INFO logger_File - Test was passed successfully
+2022-05-04 22:09:46,255 [TestNG-test=TestNG Concepts-1] INFO logger_File - method name: test
+2022-05-04 22:09:47,456 [TestNG-test=TestNG Concepts-2] INFO logger_File - Test was passed successfully
+2022-05-04 22:09:47,456 [TestNG-test=TestNG Concepts-2] INFO logger_File - method name: testTwo
+2022-05-04 22:09:47,467 [main] INFO logger_File - End of Execution
+2022-05-05 19:32:43,441 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:32:43,492 [main] INFO logger_File - logo is present
+2022-05-05 19:47:03,228 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:47:03,290 [main] INFO logger_File - logo is present
+2022-05-05 19:47:08,005 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:48:40,155 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:49:46,923 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:49:52,331 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:49:57,776 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:50:03,285 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:50:09,001 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:50:14,581 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:50:20,136 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:50:25,627 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:50:31,081 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:50:36,513 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:54:14,548 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:54:14,610 [main] INFO logger_File - logo is present
+2022-05-05 19:54:19,571 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:55:09,538 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:58:08,070 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:58:13,571 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 19:58:13,613 [main] INFO logger_File - logo is present
+2022-05-05 20:02:48,097 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 20:02:48,830 [main] INFO logger_File - logo is present
+2022-05-05 20:28:21,360 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 20:31:00,780 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 20:31:00,876 [main] INFO logger_File - logo is present
+2022-05-05 20:31:31,160 [main] INFO logger_File - user navigate to Hotel Website
+2022-05-05 20:31:31,229 [main] INFO logger_File - logo is present

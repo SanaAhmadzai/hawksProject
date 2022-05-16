@@ -1,2 +1,10 @@
-tests\DataDrivenTesting.class
-tests\HotelLoginTest.class
+testNG/concepts/TestNGExerciseOne.class
+testNG/concepts/TestNGAssertions.class
+testNG/concepts/ParametersClass.class
+exercise/testNG/DataProviderPractice.class
+exercise/testNG/LabPracticeOne.class
+testNG/concepts/ParallelExecution.class
+testNG/concepts/ParametersExercise.class
+testNG/concepts/DataProviderConcept.class
+testNG/concepts/TestNGAnnotations.class
+exercise/testNG/ParallelExecutionPractice.class

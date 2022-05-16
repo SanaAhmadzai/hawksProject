@@ -1,37 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="TestNG Concepts" duration-ms="16473" started-at="2021-10-25T23:41:47Z" finished-at="2021-10-25T23:42:04Z">
+  <suite name="TestNG Concepts" duration-ms="18676" started-at="2022-05-07T23:48:44Z" finished-at="2022-05-07T23:49:03Z">
     <groups>
     </groups>
-    <test name="DataDrivenTesting" duration-ms="16473" started-at="2021-10-25T23:41:47Z" finished-at="2021-10-25T23:42:04Z">
-      <class name="tests.HotelLoginTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.HotelLoginTest@74ad1f1f]" name="beforeMethod" is-config="true" duration-ms="5513" started-at="2021-10-25T23:41:47Z" finished-at="2021-10-25T23:41:53Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:tests.HotelLoginTest@74ad1f1f]" name="loginTest" duration-ms="10315" started-at="2021-10-25T23:41:53Z" finished-at="2021-10-25T23:42:03Z">
+    <test name="TestNG Concepts" duration-ms="18676" started-at="2022-05-07T23:48:44Z" finished-at="2022-05-07T23:49:03Z">
+      <class name="testNG.concepts.ParametersExercise">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:testNG.concepts.ParametersExercise@587d1d39]" name="test" duration-ms="45" started-at="2022-05-07T23:48:44Z" finished-at="2022-05-07T23:48:44Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[eagles@tekschool.us]]>
+                <![CDATA[James]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[eagles]]>
+                <![CDATA[Bond]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.HotelLoginTest@74ad1f1f]" name="afterMethod" is-config="true" duration-ms="616" started-at="2021-10-25T23:42:03Z" finished-at="2021-10-25T23:42:04Z">
+        </test-method> <!-- test -->
+      </class> <!-- testNG.concepts.ParametersExercise -->
+      <class name="testNG.concepts.ParallelExecution">
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:testNG.concepts.ParallelExecution@58c1670b]" name="testTwo" duration-ms="10398" started-at="2022-05-07T23:48:47Z" finished-at="2022-05-07T23:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- testNG.concepts.ParallelExecution -->
+      <class name="testNG.concepts.ParametersClass">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.concepts.ParametersClass@2c039ac6]" name="beforeMethod" is-config="true" duration-ms="13270" started-at="2022-05-07T23:48:44Z" finished-at="2022-05-07T23:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:testNG.concepts.ParametersClass@2c039ac6]" name="test" duration-ms="5239" started-at="2022-05-07T23:48:57Z" finished-at="2022-05-07T23:49:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG.concepts.ParametersClass@2c039ac6]" name="afterMethod" is-config="true" duration-ms="123" started-at="2022-05-07T23:49:02Z" finished-at="2022-05-07T23:49:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- tests.HotelLoginTest -->
-    </test> <!-- DataDrivenTesting -->
+      </class> <!-- testNG.concepts.ParametersClass -->
+    </test> <!-- TestNG Concepts -->
   </suite> <!-- TestNG Concepts -->
 </testng-results>

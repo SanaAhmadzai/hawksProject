@@ -163,7 +163,7 @@ public class DriverUtility  extends Base{
 
 	public static void screenShot() {
 
-		String location = System.getProperty("user.dir") + "\\screenshots\\";
+		String location = System.getProperty("user.dir") + "\\screenshot\\";
 		String screenShotFileName = screenShotFileName();
 
 		File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
@@ -175,7 +175,7 @@ public class DriverUtility  extends Base{
 			e.printStackTrace();
 			System.out.println("Exception in execution");
 		}
-
 	}
+	
 
 }
